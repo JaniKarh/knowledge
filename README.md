@@ -1,2 +1,2 @@
 # knowledge
-Learning to do new things
+A curated list of Tools and Resources.
