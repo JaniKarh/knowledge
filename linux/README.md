@@ -12,8 +12,3 @@ Distributions
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
   - _A curated list of awesome command-line frameworks, toolkits, guides and gizmos._
 
-[Bash one-liners](one-liners.html)
-
-# vi
-
-[vi](vi.html)
