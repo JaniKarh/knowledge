@@ -51,3 +51,12 @@ Good way to learn is to watch & read presentations.
   - _Alex Russell, a developer working on Chrome, Blink, and the Web Platform at Google._
   - [Doing Science On The Web](https://infrequently.org/2015/08/doing-science-on-the-web/)
     - _This post is about vendor prefixes, why they didn’t work, and why it’s toxic not to be able to launch experimental features._
+
+
+## Libraries
+
+A JavaScript library for creating and running behavioral experiments in a web browser. [jspsych](http://www.jspsych.org/)
+
+[Sharer.js](https://ellisonleao.github.io/sharer.js/) is a lightweight js lib to create custom social share components on DOM elements for your website. No dependencies.
+
+[Datavisualization](Datavisualization.md).

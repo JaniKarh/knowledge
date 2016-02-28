@@ -14,3 +14,9 @@
 - [QuantifiedCode](https://www.quantifiedcode.com/)
   - Automated code review & repair for Python.
     - _Let's fix issues instead of just reporting them._
+
+
+## Packages
+
+Use JSON files as if they are python modules [json-sempai](https://github.com/kragniz/json-sempai)
+
